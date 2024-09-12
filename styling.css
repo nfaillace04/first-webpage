@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+h1 {
+    color: plum;
+}
+h2 {
+    color:rgb(159, 146, 233);
+}
+img {
+    display: block;
+    margin: 0 auto;
+    border: 2px solid blue;
+}
